@@ -11,7 +11,6 @@ I'm currently building my skills through hands-on security labs, personal projec
 - OWASP Top 10
 - Vulnerability Assessment
 - Network Security
-- Bug Bounty Hunting
 
 ### 🛠️ Technical Skills
 
